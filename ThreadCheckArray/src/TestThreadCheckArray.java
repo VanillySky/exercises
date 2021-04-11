@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**a
- * 
+ * a
  * @author Viktoriya&Rostislav
  *
  *
