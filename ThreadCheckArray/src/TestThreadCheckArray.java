@@ -28,7 +28,7 @@ public class TestThreadCheckArray {
 			Thread thread1, thread2;
 			System.out.println("Enter array size");
 			int num  = input.nextInt();
-			ArrayList<Integer> array = new ArrayList<>();
+			ArrayList<Integer> a3 = new ArrayList<>();
 			System.out.println("Enter numbers for array");
 			
 			for (int index = 0; index < num; index++) 
